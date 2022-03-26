@@ -1,0 +1,6 @@
+name: ext_workflow3
+on: 'push'
+jobs:
+  ext_workflow3:
+    steps:
+      - uses: actions/checkout@v2
